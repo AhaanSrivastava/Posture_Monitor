@@ -19,3 +19,8 @@ Currently according to the plan the device will consist of:
 
 Also here are some ideas i would like to implement as i make it:
 The user first calibrates the device while sitting or standing in an upright position. The microcontroller records this as the reference posture.
+
+
+This porject is going to look simmilar to SPIMON (another project for spinal alignment: https://clinmedjournals.org/articles/jmdt/journal-of-musculoskeletal-disorders-and-treatment-jmdt-9-122.php?jid=jmdt):
+And will hopefully look something like this:
+<img width="1500" height="1032" alt="jmdt-9-122-003" src="https://github.com/user-attachments/assets/5a12dea4-0507-499d-8c14-c797b02f11a1" />
